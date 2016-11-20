@@ -1,0 +1,22 @@
+{
+  "name": "sleep2",
+  "version": "1.0.0",
+  "description": "Aysnc sleep, used on ES6+ (async/await)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-fullstack/sleep2.git"
+  },
+  "keywords": [
+    "sleep"
+  ],
+  "author": "shenyu1997@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-fullstack/sleep2/issues"
+  },
+  "homepage": "https://github.com/js-fullstack/sleep2#readme"
+}

@@ -1,5 +1,5 @@
 # sleep2
-Aysnc sleep, used under ES6+ (async/await)
+Aysnc sleep, can be used on ES6+ (async/await)
 
 ## install
 npm install sleep2
@@ -13,6 +13,6 @@ const sleep = require('sleep2');
   console.log('begin');
   await sleep(3000);
   console.log('end');
-})
+})();
 ```
 
